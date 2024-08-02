@@ -39,4 +39,5 @@ int main() {
   std::vector<int> nums = {1, 3, 4, 2, 2};
   std::cout << findDuplicate(nums) << std::endl;
   std::cout << findDuplicate2(nums);
+  return 0;
 }

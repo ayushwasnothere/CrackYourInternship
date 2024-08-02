@@ -17,4 +17,5 @@ int main() {
   for (int i = 0; i < nums.size(); i++) {
     std::cout << nums[i] << " ";
   }
+  return 0;
 }
